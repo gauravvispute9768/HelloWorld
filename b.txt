@@ -1,2 +1,3 @@
 First line inside b.txt
 
+third line
